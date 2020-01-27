@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cohshingoo.bitcoin-maximalist.com/sitemap.xml
